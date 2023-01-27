@@ -5,4 +5,3 @@ function mostrar()
 {
 	alert("hola");
 }
-let nombre = "mica"
