@@ -1,8 +1,10 @@
-/*
+/* Robledo Micaela Div. D Grupo 3
 Debemos lograr tomar un nombre con 'prompt' 
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
-{
-	alert("ok");
+{    var nombre;
+	nombre = prompt("ingrese su nombre");
+
+	alert(nombre);
 }
 
